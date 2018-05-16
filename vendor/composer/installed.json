@@ -1,0 +1,31 @@
+[
+    {
+        "name": "yurunsoft/chinese-util",
+        "version": "v1.0.3",
+        "version_normalized": "1.0.3.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/Yurunsoft/ChineseUtil.git",
+            "reference": "ef720ab69a0e0dc5f1727ba9055c62c7ca7a30d6"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://files.phpcomposer.com/files/Yurunsoft/ChineseUtil/ef720ab69a0e0dc5f1727ba9055c62c7ca7a30d6.zip",
+            "reference": "ef720ab69a0e0dc5f1727ba9055c62c7ca7a30d6",
+            "shasum": ""
+        },
+        "time": "2018-04-08T07:09:51+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Yurun\\Util\\": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "description": "PHP 中文工具类，支持汉字转拼音、拼音分词、简繁互转。PHP Chinese Tool class, support Chinese pinyin, pinyin participle, simplified and traditional conversion"
+    }
+]
